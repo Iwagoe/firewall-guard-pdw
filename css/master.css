@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)
- */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
 body {
   overflow-x: hidden;
   font-family: 'Roboto', sans-serif;
@@ -24,7 +20,7 @@ body {
 
 #sidebar-wrapper .sidebar-heading {
   padding: 0.391rem 1.25rem;
-  font-size: 1.46rem;
+  font-size: 1.38rem;
   color:silver;
   font-weight: bold;
   text-shadow: 3px 3px 3px black;
@@ -36,11 +32,12 @@ body {
 }
 
 .fa-d-and-d{
-  font-size: 38px;
+  font-size: 36px;
   font-weight: lighter;
   color: red;
   text-shadow: 3px 3px 3px black;
 }
+
 #page-content-wrapper {
   min-width: 100vw;
   
@@ -81,9 +78,7 @@ body {
 .card-hearder{
   border-bottom: 2px solid #E9ECEF;
 }
-h6{
-  font-weight: 600;
-}
+
 .tx-12{
   font-size:12px;
 }
